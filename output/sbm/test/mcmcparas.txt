@@ -1,0 +1,32 @@
+---------MCMC setting for model----------
+groupNum: 10
+iters: 250
+subiter1: 1
+subiter2: 1
+subiter3: 1
+subiter4: 1
+subiter5: 3
+test_iters: 10
+test_subiter1: 0
+test_subiter2: 1
+test_subiter3: 3
+test_subiter4: 0
+test_subiter5: 0
+rep: 3
+rep_in: 4
+subiters: 7
+test_subiters: 4
+threadnum: 12
+jump_iters: 25
+sitenum: 10
+stopsite: [[251 251 251]
+ [251 251 251]
+ [251 251 251]
+ [251 251 251]
+ [251 251 251]
+ [251 251 251]
+ [251 251 251]
+ [251 251 251]
+ [251 251 251]
+ [251 251 251]]
+

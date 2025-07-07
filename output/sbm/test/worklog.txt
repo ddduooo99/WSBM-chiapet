@@ -1,0 +1,38 @@
+---------Basic setting for model----------
+minw: 2
+maxw: 500
+minp1: 1e-07
+minLinks: 2
+maxBlockLen: 10000
+minBlockDis: 20000
+width: 5000
+minFilereads: 800
+minBlockLen: 500
+CACBminLen: 2000
+mergeDis: 2
+selfthreshold: 10000
+cutLinks: 20000
+a1: 1
+a234: 1
+b1: 1
+b234: 1
+r: 2
+pp: 0.001
+sigma: 150
+delFlag: False
+delWid: 3000
+expandFlag: True
+minreadLen: 200
+methodname: Mar02
+prefix: simu2
+ABFlag: False
+keeptempFlag: True
+chromname: ['chr21']
+filedir: ./input/simu4_multi.bedpe
+outdir: ./output/sbm/Mar02
+
+------------Data loading info------------
+PCRDuplicate: 0
+Number of read with depth>1 after expand read: True 1609 1583N = 5202, N1 = 2607, N2 = 2605, L = 1498988, minp1 = 1e-07
+PCRDuplicate: 0
+Number of read with depth>1 after expand read: True 1609 1583N = 5202, N1 = 2607, N2 = 2605, L = 1498988, minp1 = 1e-07

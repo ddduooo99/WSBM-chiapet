@@ -1,0 +1,2 @@
+chrom1	chromStart1	chromEnd1	chrom2	chromStart2	chromEnd2	IAB	CA	CB	p-value	CA(s)	CB(s)	p-value(s)	post	group	keep	ChromSep	time
+chr21	25710000	25716000	chr21	25800000	25802000	4	102	34	2.79e-02	102	34	2.79e-02	-54624.13663650081	20.0	True	simu4_multi	0.5652637481689453s
